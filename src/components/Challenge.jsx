@@ -1,6 +1,6 @@
-import React from "react";
 import Test from "./Test";
-import Typewriter from "typewriter-effect";
+// import Typewriter from "typewriter-effect";
+import React from "react";
 
 const Challenge = ({
   timeLeft,
