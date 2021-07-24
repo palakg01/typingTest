@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "./index.css";
 import Nav from "./components/Nav";
 import Challenge from "./components/Challenge";
 
@@ -89,7 +89,7 @@ class App extends React.Component {
 
     //backspace case -> make a copy of testinfo
     const testInfo = this.state.testInfo;
-    if (!(index == this.state.para.length - 1)) {
+    if (!(index === this.state.para.length - 1)) {
       testInfo[index + 1].status = "notAttempted";
     }
 
