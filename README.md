@@ -1,8 +1,13 @@
-## A simple typing test to check your speed built using ReactJS
+# Typing Speed Test
 
-The sample text is generated using [bacon ipsum](https://baconipsum.com/) api calls to fetch random paragraphs
+### Want to check your typing speed? 
+
+* This website provides a short 1 minute quick test to check your typing speed!
+
+* The sample text is generated using [bacon ipsum](https://baconipsum.com/) api calls to fetch random paragraphs everytime a new test is started
+* The webpage is built using ReactJS
 
 
-Go ahead check your speed😉
+#### Go ahead test your speed [HERE](https://palakg01.github.io/typingTest/)😉
 
-[Test it here](https://typing-test2.stackblitz.io/)
+
